@@ -1,0 +1,12 @@
+---
+galaxy_info:
+  author: Jeremy Litten
+  description: Ansible role that rununs the OSX softwareupdate program to update the OS and apps.
+  license: MIT
+  min_ansible_version: 1.9
+  platforms:
+  - name: EL
+    versions:
+    - all
+  galaxy_tags: []
+dependencies: []
