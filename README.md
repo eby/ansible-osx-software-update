@@ -10,6 +10,10 @@ Ansible role that rununs the OSX softwareupdate program to update the OS and app
 
 Available variables are listed below, along with default values:
 
+    osx_update_install: True
+    osx_update_recommended_only: True
+    osx_update_download_only: False
+
 ## Dependencies
 
 ## Example Playbook
